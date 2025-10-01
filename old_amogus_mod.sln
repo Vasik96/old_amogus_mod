@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "old_amogus_mod", "old_amogus_mod.csproj", "{B88DBAFF-59E2-4FF2-B38E-2B3A9CB04809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88DBAFF-59E2-4FF2-B38E-2B3A9CB04809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88DBAFF-59E2-4FF2-B38E-2B3A9CB04809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88DBAFF-59E2-4FF2-B38E-2B3A9CB04809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88DBAFF-59E2-4FF2-B38E-2B3A9CB04809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF1C88C-045C-4A88-A832-0A7E6146202A}
+	EndGlobalSection
+EndGlobal
